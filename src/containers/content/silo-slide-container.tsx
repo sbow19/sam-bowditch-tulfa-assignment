@@ -16,25 +16,25 @@ const SiloSlideContainer = ({ handleSlideLoad }) => {
 	const ImageElements = useMemo(() => {
 		const firstImage = (
 			<motion.img
-				src='../../public/Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
+				src='../Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
 				className={styles['first-carousel-image']}
 			/>
 		);
 		const secondImage = (
 			<motion.img
-				src='../../public/Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
+				src='../Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
 				className={styles['second-carousel-image']}
 			/>
 		);
 		const thirdImage = (
 			<motion.img
-				src='../../public/Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
+				src='../Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
 				className={styles['third-carousel-image']}
 			/>
 		);
 		const fourthImage = (
 			<motion.img
-				src='../../public/Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
+				src='../Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
 				className={styles['fourth-carousel-image']}
 			/>
 		);

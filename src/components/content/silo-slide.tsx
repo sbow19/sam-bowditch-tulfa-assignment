@@ -69,7 +69,8 @@ const SiloSlide: React.FC = memo(({ImageElements}) => {
 				animate={modalOpen ? 'hidden' : 'visible'}
 				variants={siloVariant}
 				transition={{ duration: 1, ease: 'easeOut' }}
-				initial='visible'	
+				initial='visible'
+	
 			/>
 
 			<AnimatePresence
