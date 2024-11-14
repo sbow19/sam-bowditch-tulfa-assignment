@@ -40,7 +40,7 @@ const VirtualProductSlide: React.FC = memo(() => {
 				initial='hidden' // Initial state (hidden)
 				whileInView='visible'
 				className={styles['virtual-product-sofa-container']}
-				src='../../public/Tulfa Test/Banner Video/modern-scandinavian-yellow-sofa-isolated-over-whit-2023-11-27-05-20-00-utc.jpg'
+				src='../Tulfa Test/Banner Video/modern-scandinavian-yellow-sofa-isolated-over-whit-2023-11-27-05-20-00-utc.jpg'
 				loading='lazy'
 			/>
 		</div>

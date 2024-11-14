@@ -65,7 +65,7 @@ const SiloSlide: React.FC = memo(({ImageElements}) => {
 			</motion.div>
 			<motion.img
 				className={styles['silo-main-image-container']}
-				src='../../public/Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
+				src='../Tulfa Test/Silo Images/6367-beige-basket-isolated-on-a-transparent-backg-2023-11-27-04-51-12-utc.jpg'
 				animate={modalOpen ? 'hidden' : 'visible'}
 				variants={siloVariant}
 				transition={{ duration: 1, ease: 'easeOut' }}
