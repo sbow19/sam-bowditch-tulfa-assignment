@@ -1,0 +1,35 @@
+/*Styles applied app-wide*/
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url(../../public/fonts/SFPRODISPLAYREGULAR.OTF) format("otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  font-family: "SF Pro Display", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #fff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Default global styles */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  /* Dev styles */
+  /* border: 1px red solid; */
+  /* overflow-x: hidden; */
+}
+
+/* Hide scrollbar on WebKit-based browsers */
+::-webkit-scrollbar {
+  display: none;          
+}
+
+
