@@ -8,11 +8,10 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
 dist-ssr
 public
 *.local
-
+**/Frames/*.png
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

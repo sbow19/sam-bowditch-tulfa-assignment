@@ -81,18 +81,18 @@ Here is a summary of my approach to each slide.
 - **Scrolling Animations**: Like Banner Slide, hidden div tracks scroll progression. Progression values mapped to scale, opacity, and translation values which animate the elements
 on the page.
 
-### **8. Close up Slide**
+### **9. Close up Slide**
 - **Popup modal**: modal popups up with scrollable container of images.
 
-### **9. Installation Slide**
+### **10. Installation Slide**
 - **Cycling Images**: buttons to track what images are displayed at any given time. Note I was unable to resolve performance issues associated with handling large images, 
 without resorting to compression. 
 
-### **10. Dimensions Slide**
+### **11. Dimensions Slide**
 - **Cycling Images**: buttons to track what images are displayed at any given time. Note I was unable to resolve performance issues associated with handling large images, 
 without resorting to compression. 
 
-### **11. FlatLay Slide**
+### **12. FlatLay Slide**
 - Nothing unique here.
 
 ## ** Future Enhancements**
