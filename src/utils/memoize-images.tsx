@@ -22,7 +22,6 @@ const memoizeImageArray = (
 					src={imageSource}
 					className={groupStyle}
 					onError={(e) => (e.target.src = fallbackImage)}
-					loading='lazy'
 				/>
 			);
 		});
