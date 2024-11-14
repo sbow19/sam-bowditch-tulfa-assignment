@@ -129,7 +129,7 @@ without resorting to compression.
 - Nothing unique here.
 
 
-## ** Future Enhancements**
+##** Future Enhancements**
 
 - **Testing Suite**: Implement testing suite, including React Testing Library, going forward.
 
